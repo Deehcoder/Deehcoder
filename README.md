@@ -16,7 +16,7 @@ Portfolio - most of it are course results
 - Github Finder: https://github-finder-app-kappa.vercel.app 
 - Tracalorie: https://deeh-tracalorie.netlify.app/
 - Feedback App: https://deeh-feedback-app.netlify.app/
-- Flixx: https://flixx-6nrl6yxtr-deehcoders-projects.vercel.app
+- Flixx: https://flixx-app-five.vercel.app/
 - House Marketplace: https://house-marketplace-app-roan.vercel.app
 - Support Desk: https://support-desk-tm.onrender.com
 
