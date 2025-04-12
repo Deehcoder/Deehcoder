@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 Portfolio - most of it are course results
 
-- Github Finder: github-finder-app-kappa.vercel.app 
+- Github Finder: https://github-finder-app-kappa.vercel.app 
 - Tracalorie: https://deeh-tracalorie.netlify.app/
 - Feedback App: https://deeh-feedback-app.netlify.app/
-- Flixx: flixx-6nrl6yxtr-deehcoders-projects.vercel.app
-- House Marketplace: house-marketplace-app-roan.vercel.app
+- Flixx: https://flixx-6nrl6yxtr-deehcoders-projects.vercel.app
+- House Marketplace: https://house-marketplace-app-roan.vercel.app
 - Support Desk: https://support-desk-tm.onrender.com
 
 
