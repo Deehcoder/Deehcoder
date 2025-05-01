@@ -22,5 +22,5 @@ Portfolio - most of it are course results
 
 
 Currently in the works:
-- Ecommerce Store based on Next.js: prostore-app.vercel.app
+- Ecommerce Store based on Next.js: https://prostore-app.vercel.app
 
