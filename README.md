@@ -20,7 +20,8 @@ Portfolio - most of it are course results
 - House Marketplace: https://house-marketplace-app-roan.vercel.app
 - Support Desk: https://support-desk-tm.onrender.com
 
+Newest addition:
+Ecommerce Store based on Next.js: https://prostore-app.vercel.app
 
 Currently in the works:
-- Ecommerce Store based on Next.js: https://prostore-app.vercel.app
-
+...
