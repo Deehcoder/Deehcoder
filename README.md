@@ -27,4 +27,4 @@ Ecommerce Store based on Next.js: https://prostore-app.vercel.app
 
 
 Currently in the works:
-Modular Fitness Platform, starting with a calories calculator (will be extended step by step)
+https://www.deeh.fit/ - a modular fitness platform, starting with a calories calculator (early draft / first drop; will be updated and extended step by step)
